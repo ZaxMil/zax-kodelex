@@ -4,7 +4,7 @@ Premium manga reading platform built with React, Vite, Tailwind CSS, and Supabas
 
 ### Live demo
 
-**Try it now (no install):** [https://zax-million.github.io/zax-kodelex/](https://zax-million.github.io/zax-kodelex/)
+**Try it now (no install):** [https://zaxmil.github.io/zax-kodelex/](https://zaxmil.github.io/zax-kodelex/)
 
 Demo mode shows the library UI and covers. Chapter page artwork is not included.
 
@@ -26,7 +26,7 @@ Demo mode shows the library UI and covers. Chapter page artwork is not included.
 ## Quick start (5 minutes)
 
 ```bash
-git clone https://github.com/ZAX-MILLION/zax-kodelex.git
+git clone https://github.com/ZaxMil/zax-kodelex.git
 cd zax-kodelex
 npm install
 cp .env.example .env
